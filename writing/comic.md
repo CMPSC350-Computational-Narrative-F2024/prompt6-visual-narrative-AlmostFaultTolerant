@@ -20,6 +20,6 @@ The atmosphere is charged with tension and a touch of surreal humor, blending th
 ![10th picture](../src/img/giraffe10.webp)
 ![11th picture](../src/img/giraffe11.webp)
 ![12th picture](../src/img/giraffe12.webp)
-![13th picture](../src/img/giraffe7.webp)
+![13th picture](../src/img/giraffe13.webp)
 
 
