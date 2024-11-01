@@ -1,4 +1,4 @@
-# `TODO`: "Title Comic"
+# `The Lost Little Giraffe`: "Title Comic"
 
 `TODO`: Use `image` Markdown tags to sequence your images to create
 your overall narrative. These _may_ (should, kinda?) include some
