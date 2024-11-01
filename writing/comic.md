@@ -1,13 +1,7 @@
 # `The Lost Little Giraffe`: "Title Comic"
 
-`TODO`: Use `image` Markdown tags to sequence your images to create
-your overall narrative. These _may_ (should, kinda?) include some
-gesture toward text -- even if placed on the images by the author
-and not the generator.
 
-This comic should include at _least_ `12` images. Bonus points (not
-really, but you get the idea) for laying out or arranging a comic
-format.
+This is a story about a little giraffe who got lost in a desert alone. It doesn't have text for most of it but a battle scene gets 3 GPT generated paragraphs about it.
 
 ![1st picture](../src/img/giraffe1.webp)
 ![2nd picture](../src/img/giraffe2.webp)
