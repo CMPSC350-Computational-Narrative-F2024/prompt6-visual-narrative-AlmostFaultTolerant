@@ -14,3 +14,14 @@ Now generate an image of the giraffe chasing off the beavers from the oasis with
 That's good but make him tiny, remember?
 See how he's much larger than the beavers. Make him tiny, as in the same size as the beavers or smaller
 Now, using the same style generate an image of the giraffe standing triumphantly over the empty oasis with the words "YAY" above him
+Generate an image of a tiny giraffe in a Regular Show, minimalistic cartoony style in a desert spotting a group of giraffes far in the distance.
+
+Now, in the same style, have the tiny giraffe run towards the giraffes happily just to find out that they were a mirage and now he's sad.
+
+Have the tiny giraffe running towards the group of giraffes and becoming sad when he finds out they're a mirage.
+
+Generate an image in the same style of the tiny giraffe being sad and like overly seriously depressed, dark shadow over the face, cigarette in mouth, crying. Also, make it black and white.
+
+Then, go back to the original colored art style, have the tiny giraffe who's crying be tapped on the shoulder by a giraffe.
+
+Now generate an image in the same style of the tiny giraffe being happy with the other giraffe at an oasis.
